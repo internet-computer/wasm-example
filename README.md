@@ -26,3 +26,4 @@ cp "$(go env GOROOT)/misc/wasm/wasm_exec.js" .
 
 - [Go + WebAssembly](https://github.com/golang/go/wiki/WebAssembly)
 - [syscall/js](https://golang.org/pkg/syscall/js/?GOOS=js&GOARCH=wasm)
+- [Go & WASM](https://blog.gopheracademy.com/advent-2017/go-wasm/)
